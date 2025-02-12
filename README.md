@@ -1,4 +1,4 @@
-﻿# Warriors Game
+﻿# Warriors Game (old portfolio project)
 
 ## Introduction
 
